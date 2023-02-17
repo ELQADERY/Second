@@ -1,3 +1,5 @@
 1. faire un overvieu sur que ce qu'on a dévoloppé et à travers cela on fait un état d'art 
 2.puis on peut commencer chercher comment automatiser le test 
 3. faire une conclusion
+
+on va commencer un rapport de PFE
